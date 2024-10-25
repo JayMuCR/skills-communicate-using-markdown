@@ -6,3 +6,7 @@ I'm learning Github
 ``` javascript
 var myVar = "Hello, world!";
 ```
+# Using tasks
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
